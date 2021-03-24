@@ -1,4 +1,6 @@
+{
 "repository": {
     "type": "git",
     "url": "git://github.com/Fr4nk19/vue-course.git"
   }     
+}
